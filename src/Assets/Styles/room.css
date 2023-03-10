@@ -1,0 +1,69 @@
+.room {
+    background: url(../Images/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.room .info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10%;
+    font-size: 130%;
+}
+
+.room .card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10%;
+}
+
+.card h1{
+    font-size: 150%;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.card p{
+    font-size: 120%;
+    line-height: 2;
+    text-align: justify;
+}
+
+.room button {
+    background: #FFC300;
+    color: black;
+    border: none;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 50%;
+    height: 5%;
+    
+}
+
+#drink{
+    font-weight: 500;
+    font-size: 150%;
+    color: #FFF;
+}
+
+.card span{
+    color: #FFC300;
+    font-weight: 700;
+}
+
+.info span{
+    color: #FFC300;
+    text-decoration: underline;
+}

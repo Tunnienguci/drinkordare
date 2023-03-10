@@ -1,0 +1,35 @@
+.homepage {
+    background: url(../Images/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.homepage-head img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-top: 10%;
+}
+
+.homepage-center{
+    display: flex;
+    flex-direction: column;
+    padding: 15%;
+    font-size: 150%;
+}
+
+.homepage button{
+    background: #FFC300;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+}

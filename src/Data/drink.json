@@ -1,0 +1,28 @@
+[
+    "Drink or Dare",
+    {
+        "support": "Không ai được phép trợ giúp bạn",
+        "dare": "Hãy gọi điện cho người yêu cũ của bạn và mời cưới",
+        "drink": "Uống 2 chén"
+    },
+    {
+        "support": "Tất cả mọi người cùng tham gia",
+        "dare": "Hãy kể tên các loại hãng xe ô tô cùng mọi người, ai kể sai phải uống 1 chén",
+        "drink": "Uống 1 chén"
+    },
+    {
+        "support": "Không ai được phép trợ giúp bạn",
+        "dare": "Kể về mối tình đầu của bạn, nếu chưa có uống 2 chén",
+        "drink": "Uống 2 chén"
+    },
+    {
+        "support": "Tất cả mọi người cùng tham gia",
+        "dare": "Trò chơi nối từ, vòng 01 tất cả mọi người phải sống, ai đặt từ khó tại vòng 01 phạt 3 chén",
+        "drink": "Uống 1 chén"
+    },
+    {
+        "support": "Người ngồi đối diện bạn",
+        "dare": "Hãy kể liên tiếp 10 từ bắt đầu bằng chữ C, ai kể sai phải uống 1 chén",
+        "drink": "Uống 1 chén"
+    }
+]

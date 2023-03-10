@@ -1,0 +1,58 @@
+.play {
+    background: url(../Images/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.play .info {
+    display: flex;
+    flex-direction: column;
+    padding: 15%;
+    font-size: 150%;
+}
+
+.play .info button {
+    background: #FFC300;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.play .info input {
+    background: #FFFFFF;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.play .support {
+    display: flex;
+    flex-direction: column;
+    padding: 15%;
+    font-size: 80%;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.play .board{
+    display: flex;
+    flex-direction: column;
+    padding: 15%;
+    font-size: 100%;
+
+}
