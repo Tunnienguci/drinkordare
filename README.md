@@ -37,4 +37,4 @@ Quach Cong Tuan
 Copyright © 2023 Tunnienguci. All rights reserved.
 
 ## Interfaces
-<img src="/Screenshot.PNG">
+<img src="/Screenshot.png">
