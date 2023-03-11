@@ -1,5 +1,4 @@
 [
-    "Drink or Dare",
     {
         "support": "Không ai được phép trợ giúp bạn",
         "dare": "Hãy gọi điện cho người yêu cũ của bạn và mời cưới",
@@ -24,5 +23,105 @@
         "support": "Người ngồi đối diện bạn",
         "dare": "Hãy kể liên tiếp 10 từ bắt đầu bằng chữ C, ai kể sai phải uống 1 chén",
         "drink": "Uống 1 chén"
+    },
+    {
+        "support":"Tất cả mọi người cùng tham gia",
+        "dare": "Ai đã dùng Tinder rồi uống 1 chén",
+        "drink": "Uống 1 chén"
+    },
+    {
+        "support":"Không ai được phép trợ giúp bạn",
+        "dare": "Hãy đăng status của bạn lên Facebook và nói rằng bạn đang yêu người kia",
+        "drink": "Uống 1 chén"
+    },
+    {
+        "support" :"Không ai được phép trợ giúp bạn",
+        "dare": "Hãy nhắn tin cho người yêu của bạn và nói chia tay",
+        "drink": "Uống 1 chén"
+    },
+    {
+        "support" :"Tất cả mọi người cùng tham gia",
+        "dare": "Tất cả mọi người cùng công khai số lượng người yêu, người nhiều nhất và ít nhất sẽ phải uống cùng nhau 1 chén",
+        "drink": "Uống 2 chén"
+    },
+    {
+        "support":"Người ngồi đối diện bạn",
+        "dare": "Hãy hát một đoạn bất kỳ và người còn lại phải hát nối tiếp, ai hát sai phải uống 1 chén. Bắt đầu từ bạn",
+        "drink": "Uống 1 chén"
+    },
+    {
+        "support":"Tất cả mọi người cùng tham gia",
+        "dare":"Nối tình anh em, mọi người cùng nâng ly",
+        "drink":"Uống 1 chén"
+    },
+    {
+        "support":"Tất cả mọi người cùng tham gia",
+        "dare":"Kể tên các loài quả, ai kể sai phải uống 1 chén",
+        "drink":"Uống 1 chén"
+    },
+    {
+        "support":"Không ai được phép trợ giúp bạn",
+        "dare":"Hãy kể tên 20 thủ đô trên thế giới, kể sai phải uống 1 chén",
+        "drink":"Uống 1 chén"
+    },
+    {
+        "support":"Tất cả mọi người cùng tham gia",
+        "dare":"Hãy tắt tất cả điện thoại cho đến khi, máy ai có thông báo đầu tiên phải uống 1 chén, bật chuông và không được để chế độ không làm phiền, ai gian lận phạt 3 chén",
+        "drink":"Uống 1 chén"
+    },
+    {
+        "support":"Không ai được phép trợ giúp bạn",
+        "dare":"Hãy kể tên 10 quốc gia thuộc Đông Nam Á, kể sai phải uống 1 chén",
+        "drink":"Uống 1 chén"
+    },
+    {
+        "support":"Tất cả mọi người cùng tham gia",
+        "dare":"Hãy kể tên các phố/đường tại Hà Nội bắt đầu bằng họ Nguyễn",
+        "drink":"Uống 1 chén"
+    },
+    {
+        "support":"Tất cả mọi người cùng tham gia",
+        "dare":"Hãy kể tên các phố/đường tại Hà Nội bắt đầu bằng chữ H",
+        "drink":"Uống 1 chén"
+    },
+    {
+        "support":"Không ai được phép trợ giúp bạn",
+        "dare":"Hãy selfie cùng mọi người và up lên Facebook và Story",
+        "drink":"Uống 3 chén"
+    },
+    {
+        "support":"Tất cả mọi người cùng tham gia",
+        "dare":"Hãy kể tên các bài hát trong đó có chữ 'Hoa' ",
+        "drink":"Uống 1 chén"
+    },
+    {
+        "support":"Chọn một người bất kỳ",
+        "dare":"Anh em cùng hội cùng thuyền, hai người sẽ phải làm thử thách cùng nhau trong 02 lượt chơi tiếp theo",
+        "drink":"Uống 2 chén"
+    },
+    {
+        "support":"Chọn một người bất kỳ",
+        "dare":"Anh em cây khế, uống cùng nhau 1 chén, người chỉ định sẽ phải uống 1 chén nếu không sẽ bị phạt 3 chén",
+        "drink":"Uống 1 chén"
+    },
+    {
+        "support":"Tất cả mọi người cùng tham gia",
+        "dare":"Ai chưa mất lần đầu, uống 1 chén",
+        "drink":"Uống 1 chén"
+    },
+    {
+        "support": "Không ai được phép trợ giúp bạn",
+        "dare":"Tự giác đê, mời mọi người 01 chén",
+        "drink":"Uống 2 chén"
+    },
+    {
+        "support":"Không ai được phép trợ giúp bạn",
+        "dare":"Hãy gọi điện cho người khác và vay 500k, không vay được phải uống 1 chén, thời gian giới hạn 05 phút",
+        "drink":"Uống 1 chén"
+    },
+    {
+        "support":"Tất cả mọi người cùng tham gia",
+        "dare":"Nối từ bắt đầu từ bạn, chọn ra 03 người thua đầu tiên, uống 1 chén",
+        "drink":"Uống 1 chén"
     }
 ]

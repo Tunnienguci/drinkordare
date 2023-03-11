@@ -1,20 +1,37 @@
 import "../Assets/Styles/room.css";
 import Data from "../Data/drink.json";
+import { useState, useEffect } from "react";
 
 
 
 export default function Room() {
+
+    // Dùng useEffect để lấy dữ liệu từ localStorage vào state để render ra màn hình
+    useEffect(() => {
+        const support = localStorage.getItem("support");
+        const dare = localStorage.getItem("dare");
+        const drink = localStorage.getItem("drink");
+    }, []);
+
+    // Hàm này được gọi khi người chơi bấm nút Play
     const onClick = () => {
-        const data = Data;
-        const random = Math.floor(Math.random() * data.length);
-        const support = data[random].support;
-        const dare = data[random].dare;
-        const drink = data[random].drink;
-        localStorage.setItem("drink", drink);
-        localStorage.setItem("dare", dare);
-        localStorage.setItem("support", support);
-        window.location.reload();
-    };
+        // Lấy ra 1 số ngẫu nhiên từ 0 đến 9
+        const random = Math.floor(Math.random() * 10);
+        // Lưu dữ liệu vào localStorage
+        localStorage.setItem("support", Data[random].support);
+        localStorage.setItem("dare", Data[random].dare);
+        localStorage.setItem("drink", Data[random].drink);
+
+        // Lấy dữ liệu từ localStorage vào state để render ra màn hình
+        const support = localStorage.getItem("support");
+        const dare = localStorage.getItem("dare");
+        const drink = localStorage.getItem("drink");
+
+        document.querySelector(".support").innerHTML = support;
+        document.querySelector(".dare").innerHTML = dare;
+        document.querySelector(".drink").innerHTML = drink;
+    }
+
 
     const name = localStorage.getItem("name");
 
